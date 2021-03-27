@@ -1,0 +1,4 @@
+nitrogen --restore &
+tint2 &
+picom &
+xrandr --output HDMI-A-0 --primary  --output DVI-D-0 --rotation left --right-of HDMI-A-0
